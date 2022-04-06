@@ -19,10 +19,10 @@ https://www.justinmiles.io
 
 ## How to reach me ...
 <p>
-  <a href="https://www.linkedin.com/in/andreagonzalez11/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/milesjustin" rel="nofollow noreferrer">
 		<img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
   </a> &nbsp;
-  <a href="mailto: andreagon6135@gmail.com" rel="nofollow noreferrer">
+  <a href="mailto: jmiles90@gmail.com" rel="nofollow noreferrer">
 		<img src="https://img.icons8.com/ios/50/000000/gmail-new.png"/>
   </a>
 </p>
