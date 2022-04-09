@@ -3,7 +3,7 @@
 
 ## 🌱 I'm currently learning...
 * I'm currently enrolled at Nucamp in a bootcamp to learn more about backend, SQL, and DevOps with Python. We are studying fundamental and complex algorithms and data structures, and will learn how to deploy robust applications built with Python to the cloud with Azure, AWS, and Google Cloud.
-* I am also taking it upon myself to learn more about networking, cybersecurity practices, and penetration testing tools.
+* I am also taking it upon myself to learn more about networking, cybersecurity practices, and penetration testing.
 
 ## 🔭 I'm currently working on...
 * I'm always working on and trying to improve my personal portfolio site. I gladly welcome any and all feedback:
