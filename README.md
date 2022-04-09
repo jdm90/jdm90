@@ -8,6 +8,7 @@
 ## 🔭 I'm currently working on...
 * I'm always working on and trying to improve my personal portfolio site. I gladly welcome any and all feedback:
 https://www.justinmiles.io
+* I am building a terminal-based Blackjack game with Python.
 * I am building a terminal-based Choose Your Own Adventure RPG game called The Colorado Trail, inspired by the classic Oregon Trail game.
 * I am building a mobile recipe/ingredient application with React Native for people with special diets or allergies.
 
