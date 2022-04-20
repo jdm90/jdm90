@@ -1,6 +1,11 @@
 ## 😎 About me...
 * I am passionate about technology because it empowers me to push the boundaries of my potential and bridges the gap between what is currently impossible and what will be possible tomorrow. I'm a driven and ever-evolving solutionist who focuses on solving modern problems with a determined but adaptable approach.
 
+## 💻 Technologies, languages, and tools I'm currently using...
+<p>
+	Python, HTML, CSS, Bootstrap, JavaScript, React, React Native, Redux, Expo, Node.js, MongoDB, Express, SQL, Postman
+</p>
+
 ## 🌱 I'm currently learning...
 * I'm currently enrolled at Nucamp in a bootcamp to learn more about backend, SQL, and DevOps with Python. We are studying fundamental and complex algorithms and data structures, and will learn how to deploy robust applications built with Python to the cloud with Azure, AWS, and Google Cloud.
 * I am also taking it upon myself to learn more about networking, cybersecurity practices, and penetration testing.
