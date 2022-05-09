@@ -7,7 +7,11 @@
 </p>
 
 ## 🌱 I'm currently learning...
-* This week I am learning more about SQL, specifically database manipulation with CREATE, INSERT, ALTER TABLE, UPDATE, and DELETE. I am also learning about database queries and multi-table queries.
+* This week I am learning more about SQL, specifically:
+	* Migrations
+	* Object Relational Mapping (ORM)
+	* Application Programming Interface (API)
+	* Backend App Development
 * I'm currently enrolled at Nucamp in a bootcamp to learn more about backend, SQL, and DevOps with Python. We are studying fundamental and complex algorithms and data structures, and will learn how to deploy robust applications built with Python to the cloud with Azure, AWS, and Google Cloud.
 * I am also taking it upon myself to learn more about networking, cybersecurity practices, and penetration testing.
 
