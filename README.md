@@ -3,15 +3,14 @@
 
 ## 💻 Technologies, languages, and tools I'm currently using...
 <p>
-	Python, HTML, CSS, Bootstrap, JavaScript, React, React Native, Redux, Expo, Node.js, MongoDB, Express, SQL, Postman
+	Python, HTML, CSS, Bootstrap, JavaScript, React, React Native, Redux, Expo, Node.js, MongoDB, Express, SQL, Postman, Insomnia
 </p>
 
 ## 🌱 I'm currently learning...
-* This week I am learning more about SQL, specifically:
-	* Migrations
-	* Object Relational Mapping (ORM)
-	* Application Programming Interface (API)
-	* Backend App Development
+* This week I am learning more about DevOps and common tools used, including:
+	* Docker
+	* Insomnia
+	* Django
 * This week I am also focusing on learning some more about WordPress and Elementor to refresh my company's current website.
 * I'm currently enrolled at Nucamp in a bootcamp to learn more about backend, SQL, and DevOps with Python. We are studying fundamental and complex algorithms and data structures, and will learn how to deploy robust applications built with Python to the cloud with Azure, AWS, and Google Cloud.
 * I am also taking it upon myself to learn more about networking, cybersecurity practices, and penetration testing.
