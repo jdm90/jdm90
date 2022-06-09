@@ -9,6 +9,9 @@
 ## 🌱 I'm currently learning...
 * This week I am learning more about DevOps and common tools used, including:
 	* Docker
+		* Docker Hub
+		* Docker Networking
+		* Managing Docker ports	 
 	* Insomnia
 	* Django
 * This week I am also focusing on learning some more about WordPress and Elementor to refresh my company's current website.
